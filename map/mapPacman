@@ -1,0 +1,31 @@
++------------++------------+
+|oooooooooooo||oooooooooooo|
+|o+--+o+---+o||o+---+o+--+o|
+|O|nn|o|nnn|o||o|nnn|o|nn|O|
+|o+--+o+---+o++o+---+o+--+o|
+|oooooooooooooooooooooooooo|
+|o+--+o++o+------+o++o+--+o|
+|o+--+o||o+--++--+o||o+--+o|
+|oooooo||oooo||oooo||oooooo|
++----+o|+--+o||o+--+|o+----+
+     |o|+--+o++o+--+|o|     
+     |o||          ||o|     
+     |o||m+---H--+m||o|     
+     |o++ |nnn1nn| ++o|     
+     |ooo |nnn2nn| ooo|     
+     |o++ |nnn34n| ++o|     
+     |o||m+------+m||o|     
+     |o||    P     ||o|     
+     |o||m+------+m||o|     
++----+o++ +--++--+ ++o+----+
+|oooooooooooo||oooooooooooo|
+|o+--+o+---+o||o+---+o+--+o|
+|o+-+|o+---+o++o+---+o|+-+o|
+|Ooo||oooooooooooooooo||ooO|
++-+o||o++o+------+o++o||o+-+
++-+o++o||o+--++--+o||o++o+-+
+|oooooo||oooo||oooo||oooooo|
+|o+----++--+o||o+--++----+o|
+|o+--------+o++o+--------+o|
+|oooooooooooooooooooooooooo|
++--------------------------+
